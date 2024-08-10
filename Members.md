@@ -13,6 +13,20 @@ layout: comments
 
 Numbers inside parentheses stand for academic years in which members were recruited.
 
+## Grade 22
+- [Ye Huang](http://blog.yeyeah.life/) (22')
+- Yuewen Huang (22')
+- Yu Wang (22')
+- Ruihan Zheng (22')
+
+## Grade 21
+- Yibin Luo (22')
+- Yujie Huang (22')
+- Lanshu Huang (22')
+- Xianjie Chen (22')
+- Kezhou Lu (22')
+- Bo Yang (22')
+
 ## Grade 20
 
 - Zhe Tang (21')
