@@ -5,6 +5,10 @@ layout: comments
 
 |           Year            | Rank |                        Notes                        |
 | :-----------------------: | :--: | :-------------------------------------------------: |
+|[ISC24(Virtual)][isc24]|1|[News][isc24-news]|
+|[ASC24][asc24]|2|[News][asc24-news]|
+|[PRA23][pra23]|1|[News][pra23-news]|
+|[ASC22-23][asc22-23]|8|Application Innovation Award, [News][asc22-23-news]|
 |      [SC22(Virtual)][sc22]         |  1   |                 [News][sc22-news]                   |
 |      [ISC22][isc22]       |  2   |                 [News][isc22-news]                  |
 |     [IPCC21][ipcc21]      |  3   |                 [News][ipcc21-news]                 |
@@ -29,6 +33,14 @@ layout: comments
 |           ASC13           |  4   |  Application Innovation Award, [News][asc13-news]   |
 |           ASC12           |  4   |                 [News][asc12-news]                  |
 
+[isc24-news]: https://www.sysu.edu.cn/news/info/2161/1202251.htm
+[isc24]: https://www.isc-hpc.com/student-cluster-competition-2024.html
+[asc24-news]: https://mp.weixin.qq.com/s?__biz=MzAwNzczODEzMw==&mid=2653119198&idx=1&sn=3d5efd8e6c283f058c4828f867681461
+[asc24]: http://www.asc-events.net/StudentChallenge/index.html
+[pra23-news]: https://cas-pra.sugon.com/webnews/detail/243
+[pra23]: https://cas-pra.sugon.com/index.html
+[asc22-23-news]: https://mp.weixin.qq.com/s/Gg1QBf8ImFgLFbMv0G8EoA
+[asc22-23]: http://www.asc-events.net/StudentChallenge/History/2022-2023/index.html
 [sc22-news]: https://www.sysu.edu.cn/news/info/2161/825941.htm
 [sc22]: https://studentclustercompetition.us/
 [isc22]: https://www.isc-hpc.com/student-cluster-competition.html
@@ -43,7 +55,7 @@ layout: comments
 [cpc21]: http://hpc-cpc.com/
 [isc21-news]: https://cse.sysu.edu.cn/content/5940
 [isc21]: https://www.hpcadvisorycouncil.com/events/2021/student-cluster-competition/
-[asc20-21]: http://www.asc-events.net/ASC20-21/Finals.php
+[asc20-21]: http://www.asc-events.net/StudentChallenge/History/2020-2021/index.html
 [asc20-21-news]: https://mp.weixin.qq.com/s/qIaw40TKvcRTo_NULV_z_g
 [pac20-news]: https://mp.weixin.qq.com/s/F06-d3718XazNqVhLFcoaA
 [pra20-news]: https://mp.weixin.qq.com/s/r9gJu9tuRvNoXj2c9ktVFg
